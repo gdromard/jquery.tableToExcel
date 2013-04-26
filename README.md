@@ -1,7 +1,7 @@
 [jquery.tableToExcel](http://gdromard.github.com/jquery.tableToExcel)
 =====================
 
-Converts HTML table into a Excel file (comma separated file).
+Converts HTML table into a Excel file.
 
 Tags: 
 `jquery`, `table`, `excel`
