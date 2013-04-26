@@ -89,9 +89,11 @@ dt {
 
 th {
   color:#444;
-  font-weight: bold;
 }
 
+th * {
+  font-weight: bold;
+}
 img {
   max-width:100%;
 }
