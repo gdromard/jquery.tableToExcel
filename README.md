@@ -1,4 +1,3 @@
-
 [jquery.tableToExcel](http://gdromard.github.com/jquery.tableToExcel)
 =====================
 
@@ -12,7 +11,7 @@ Demo
 
 Better than words, try it.
 
-A demo is available [here](http://gdromard.github.com/jquery.tableToExcel/demo/).
+A demo is available [here](http://gdromard.github.com/jquery.tableToExcel/demo.html).
 
 
 Bug tracker
